@@ -4,9 +4,7 @@
       <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+world!+I'm+Angie;Software+Engineer;&center=true&width=500&height=50">
     </a>
   </div>
-    <img alt="GIF" src="https://64.media.tumblr.com/c2b0e762823caacc6ba059af77640d89/tumblr_mrlos5mnyv1sq16nao1_500.gif" width=300 height=200/>
-  <h2 align="left">📈 GitHub Activity Graph</h2>	
-    <p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=angierove&theme=github-compact" alt="mygithub activity"/></p>
+    <img alt="GIF" src="https://64.media.tumblr.com/c2b0e762823caacc6ba059af77640d89/tumblr_mrlos5mnyv1sq16nao1_500.gif" width=300 height=200/> 
   <h2 align="left"> 🔥 Streak stats</h2>
     <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=angierove&theme=tokyonight" alt="mystreak"/></p>
   <h2 align="left"> ✨ Let's connect</h2>
